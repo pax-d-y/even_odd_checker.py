@@ -11,4 +11,4 @@ print(user + "is odd\n")
 else:
 print("!!!!invalid input!!!!")
 
-print("------------------Code runed-----------")
+print("------------------Code runned-----------")
